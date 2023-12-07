@@ -5,6 +5,10 @@ using [the glamour library](https://github.com/charmbracelet/glamour).
 
 ![screenshot](screenshot.png)
 
+This project is not meant to be impressive or interesting in any way.
+It is simply a much less bloated alternative to [glow](https://github.com/charmbracelet/glow),
+which uses the same rendering library.
+
 
 ## Compiling
 
