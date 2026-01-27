@@ -15,7 +15,7 @@ which uses the same rendering library.
 On Linux with `apt`:
 
 ```
-$ sudo apt install golang
+$ sudo apt install golang-go
 $ git clone https://github.com/Akuli/md
 $ cd md
 $ go build
